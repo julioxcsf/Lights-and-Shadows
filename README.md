@@ -42,8 +42,5 @@ Abaixo estão alguns dos resultados obtidos com o programa:
 | **C++** | Linguagem principal utilizada no projeto |
 | **OpenGL** | API gráfica para renderização 3D |
 | **GLSL** | Shader Language para manipulação da iluminação |
-| **Z-buffer** | Técnica de profundidade para sombras |
-
----
 
 ---
