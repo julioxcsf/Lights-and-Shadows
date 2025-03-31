@@ -24,8 +24,6 @@ A geração de sombras é implementada através do **Z-buffer**, garantindo prof
 > ⚠️ **Nota:** O repositório contém apenas o código-fonte para fins de demonstração e consulta.  
 > Para compilar e executar, são necessários arquivos adicionais que não estão incluídos no repositório.  
 
-Caso tenha interesse em testar ou contribuir, entre em contato.  
-
 ---
 
 ## **Demonstração**  
